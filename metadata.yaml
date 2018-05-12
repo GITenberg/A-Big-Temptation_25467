@@ -1,0 +1,50 @@
+_repo: A-Big-Temptation_25467
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Arthur A. (Arthur Augustus)
+    alias: Dixon, A. A. (Arthur Augustus)
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '28329'
+    url: http://www.gutenberg.org/2009/agents/28329
+covers:
+- cover_type: archival
+  image_path: 25467-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Manwell, M. B.
+    gutenberg_agent_id: '31356'
+    url: http://www.gutenberg.org/2009/agents/31356
+  - agent_name: Meade, L. T.
+    aliases:
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Smith, Elizabeth Thomasina Meade
+    - Mead, L. T.
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+  - agent_name: Brown, Maggie
+    gutenberg_agent_id: '31357'
+    url: http://www.gutenberg.org/2009/agents/31357
+description: ''
+gutenberg_issued: '2008-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: 'A big temptation / by L.T. Meade -- The other Carews / by M.B. Manwell
+  -- Kurus : the king of the cannibal islands / by Maggie Browne.'
+title: A Big Temptation
+url: http://www.gutenberg.org/ebooks/25467
