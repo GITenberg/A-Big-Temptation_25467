@@ -46,6 +46,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Children''s stories'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: 'A big temptation / by L.T. Meade -- The other Carews / by M.B. Manwell
   -- Kurus : the king of the cannibal islands / by Maggie Browne.'
 title: A Big Temptation
